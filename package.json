@@ -1,0 +1,50 @@
+{
+  "name": "moca-new-places",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve --port 8080 --open",
+    "build": "vue-cli-service build --modern",
+    "lint": "vue-cli-service lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.1.1",
+    "@turf/length": "^6.0.2",
+    "@turf/line-distance": "^4.7.3",
+    "mapbox-gl": "^0.53.1",
+    "mapbox-gl-draw": "^0.16.0",
+    "numeral": "^2.0.6",
+    "turf": "^3.0.14",
+    "vue": "^2.6.8",
+    "vue-mapbox": "^0.2.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-plugin-eslint": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.21",
+    "webpack": "^4.29.6"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  }
+}

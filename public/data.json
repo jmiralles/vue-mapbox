@@ -1,0 +1,2640 @@
+[{
+        "createdAt": 1545233821051,
+        "updatedAt": 1548415153027,
+        "placeId": "-Db9IIUhSTalFs_ymimIFw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "T20",
+            "description": "Test Coruña",
+            "geoFence": {
+                "latitude": 43.37039582247733,
+                "longitude": -8.399955753548511,
+                "radius": 614.059,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1541753404773,
+        "updatedAt": 1541753536929,
+        "placeId": "-t4b3ypSRqaTLkP2N6ly-A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "T13",
+            "description": "Perth",
+            "geoFence": {
+                "latitude": -31.94363723154111,
+                "longitude": 115.86623198371092,
+                "radius": 222.975,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927384640,
+        "updatedAt": 1517927384640,
+        "placeId": "-UBx-J__RwqGCT7SHCLrsA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Andorra",
+            "description": "Esport i Aventura - Construcció d'iglús i raquetes de neu",
+            "geoFence": {
+                "latitude": 42.53262,
+                "longitude": 1.700353,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [{
+            "createdAt": 1518094469421,
+            "updatedAt": 1518094469421,
+            "zoneId": "N3ljswcgTA-QlVkyqGTKNA",
+            "placeId": "-UBx-J__RwqGCT7SHCLrsA",
+            "config": {
+                "name": "Testing",
+                "description": "",
+                "floorNumber": 0,
+                "category": "ddd",
+                "enabled": false,
+                "type": "BeaconGroup",
+                "provider": "MOCA",
+                "options": {},
+                "color": null
+            },
+            "state": "UNKNOWN",
+            "placeName": "Andorra"
+        }],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381945,
+        "updatedAt": 1517927389733,
+        "placeId": "0mVTyCcfRSybbCyjB6cD7Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "CaixaForum Lleida",
+            "description": "CaixaForum Lleida",
+            "geoFence": {
+                "latitude": 41.61272,
+                "longitude": 0.62438,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1541587075600,
+        "updatedAt": 1541587159727,
+        "placeId": "1jFL__emR0GVRlQoYh8sAQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "T11",
+            "description": "Techedge",
+            "geoFence": {
+                "latitude": 41.40758975189646,
+                "longitude": 2.2181666846557846,
+                "radius": 147.039,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927391418,
+        "updatedAt": 1517927391418,
+        "placeId": "1qxjK8tmTNmwxxnWlqheGg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Centre d'Observació de l'Univers del Montsec. Àger.",
+            "description": "Centre d'Observació de l'Univers",
+            "geoFence": {
+                "latitude": 42.02459,
+                "longitude": 0.734797,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927391979,
+        "updatedAt": 1517927391979,
+        "placeId": "1t70rGpmSHmquCxYoomdVQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Benifallet",
+            "description": "Beniemocions",
+            "geoFence": {
+                "latitude": 40.9737,
+                "longitude": 0.514352,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1521188367018,
+        "updatedAt": 1521188444015,
+        "placeId": "3c3G8QYfSlCWXzsvaPPoRQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Les Planes D'Hostoles",
+            "description": "Les Planes D'Hostoles",
+            "geoFence": {
+                "latitude": 42.059347368986366,
+                "longitude": 2.5368708152869885,
+                "radius": 251.062,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1545124861917,
+        "updatedAt": 1545124991129,
+        "placeId": "3e_8lz-DRtafFpfL8c3ytg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Burguer Queen",
+            "description": "Burguer Queen",
+            "geoFence": {
+                "latitude": 41.3853778362942,
+                "longitude": 2.1697771534118147,
+                "radius": 100.028,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927394584,
+        "updatedAt": 1517927394584,
+        "placeId": "3tlFr9ekQ7ii1aiCyNrnMQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Centre Comercial La Farga. L'Hospitalet de Llobregat.",
+            "description": "Iniciació al patinatge en línia i quatre rodes",
+            "geoFence": {
+                "latitude": 41.36165,
+                "longitude": 2.116494,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927384417,
+        "updatedAt": 1517927384417,
+        "placeId": "49p3c7-STHuvNiiX2j-vSw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Lles de Cerdanya",
+            "description": "Esquí nòrdic a Lles",
+            "geoFence": {
+                "latitude": 42.4308,
+                "longitude": 1.666517,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1538403626390,
+        "updatedAt": 1538403751677,
+        "placeId": "4C7ArgVPRo-sEM7Tbn0F-A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Steve Test",
+            "description": "Newcastle",
+            "geoFence": {
+                "latitude": 54.97559294532163,
+                "longitude": -1.6216777288360618,
+                "radius": 212.358,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1519897959948,
+        "updatedAt": 1519897997273,
+        "placeId": "4MXOv9AbSfG5OgbSvuO8MQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "umraniye",
+            "description": "umraniye",
+            "geoFence": {
+                "latitude": 41.0201624117383,
+                "longitude": 29.127930827972705,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1527583794279,
+        "updatedAt": 1527583816179,
+        "placeId": "4NDXmYG8TJ-9J04glr9uVg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Amsterdam",
+            "description": "Amsterdam",
+            "geoFence": {
+                "latitude": 52.37017896460312,
+                "longitude": 4.8920643408980595,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927384803,
+        "updatedAt": 1517927397664,
+        "placeId": "5_f6XEbIRISAe0ZvgsuUHQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Vilanova i la Geltrú",
+            "description": "Museu del Ferrocarril de Catalunya",
+            "geoFence": {
+                "latitude": 41.22031,
+                "longitude": 1.730788,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1519042536397,
+        "updatedAt": 1519042575876,
+        "placeId": "580Io9FkSc6U-GnXbWsd9w",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Pharuslab",
+            "description": "Pharuslab",
+            "geoFence": {
+                "latitude": 45.675296619108714,
+                "longitude": 11.927518293210369,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1539186132944,
+        "updatedAt": 1539186240756,
+        "placeId": "5rTt3lAuQSK3_8s5ESeJPA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test 2",
+            "description": "Chile",
+            "geoFence": {
+                "latitude": -33.40151268663185,
+                "longitude": -70.57833523068848,
+                "radius": 785.627,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927389447,
+        "updatedAt": 1517927389447,
+        "placeId": "60GE6aHqRWCjgz3cjmcxgw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "CaixaForum Tarragona ",
+            "description": "CaixaForum Tarragona",
+            "geoFence": {
+                "latitude": 41.11703,
+                "longitude": 1.249112,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1526290955556,
+        "updatedAt": 1526290955556,
+        "placeId": "63inrqR4SUOtvJ3kY6UNMA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Memorable Name",
+            "description": "Memorable Description",
+            "geoFence": null
+        },
+        "zones": [{
+            "createdAt": 1526291066435,
+            "updatedAt": 1526291066435,
+            "zoneId": "vTsh_mn3RUqip3NUrO6oWg",
+            "placeId": "63inrqR4SUOtvJ3kY6UNMA",
+            "config": {
+                "name": "test",
+                "description": "test",
+                "floorNumber": 0,
+                "category": "shop",
+                "enabled": false,
+                "type": "BeaconGroup",
+                "provider": "MOCA",
+                "options": {},
+                "color": null
+            },
+            "state": "UNKNOWN",
+            "placeName": "Memorable Name"
+        }],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927392741,
+        "updatedAt": 1517927392741,
+        "placeId": "6b3LwAmXS82Uo4WqE1sjcA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Flix",
+            "description": "Descens en caiac pel riu Ebre",
+            "geoFence": {
+                "latitude": 41.23295,
+                "longitude": 0.552897,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927394821,
+        "updatedAt": 1517927394821,
+        "placeId": "6BNsy3TIQTe9VcEKhV_7yA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Arenal de Llevant. Barcelona",
+            "description": "Iniciació al patinatge en línia i quatre rodes",
+            "geoFence": {
+                "latitude": 41.40323,
+                "longitude": 2.209232,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927398573,
+        "updatedAt": 1517927398573,
+        "placeId": "6lpCIsMlTAWbf0TcJc5PVQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sarral",
+            "description": "Museu de l'Alabastre",
+            "geoFence": {
+                "latitude": 41.44706,
+                "longitude": 1.24853,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927393461,
+        "updatedAt": 1517927393461,
+        "placeId": "7ceguEfBShuGLXrtceTfOg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Tarragona",
+            "description": "Descobreix Tarragona",
+            "geoFence": {
+                "latitude": 41.11834,
+                "longitude": 1.254984,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927391052,
+        "updatedAt": 1517927391052,
+        "placeId": "7TqchHWjR2OqZTtTrtLTkw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Cookiteca Sant Cugat. Vallès Occidental.",
+            "description": "Cookiteca",
+            "geoFence": {
+                "latitude": 41.47306,
+                "longitude": 2.082216,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927390871,
+        "updatedAt": 1517927390871,
+        "placeId": "8xezNLyLRgWFQONLf7uX4Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Cookiteca Santaló. Barcelona.",
+            "description": "Cookiteca",
+            "geoFence": {
+                "latitude": 41.39687,
+                "longitude": 2.144275,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1518621495121,
+        "updatedAt": 1518622070687,
+        "placeId": "9PTet59ZSpaF_wHeqFvQdA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Guadalajara",
+            "description": "Guadalajara",
+            "geoFence": {
+                "latitude": 20.723299517357372,
+                "longitude": -103.4122248560667,
+                "radius": 240.59,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927397332,
+        "updatedAt": 1517927397332,
+        "placeId": "9vZARfVPSLGimoz6oS92_Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Palamós",
+            "description": "Museu de la Pesca",
+            "geoFence": {
+                "latitude": 41.84676,
+                "longitude": 3.128635,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927387495,
+        "updatedAt": 1517927387495,
+        "placeId": "AWAD8AaHQAiErZMJU2KEQw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "La Casa de les Punxes. Barcelona.",
+            "description": "La Casa de les Punxes",
+            "geoFence": {
+                "latitude": 41.39807,
+                "longitude": 2.163876,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927383156,
+        "updatedAt": 1517927383157,
+        "placeId": "bm5Ya3lET4aCtwvtTow37A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Guils de Cerdanya",
+            "description": "Estació d'esquí nòrdic Guils-Fontanera",
+            "geoFence": {
+                "latitude": 42.45845,
+                "longitude": 1.844692,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927386699,
+        "updatedAt": 1517927392563,
+        "placeId": "cdUG88eqQpCwJOvXvkNnHA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Port Vell. Barcelona",
+            "description": "Catamarà ecològic",
+            "geoFence": {
+                "latitude": 41.38077,
+                "longitude": 2.182201,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927388111,
+        "updatedAt": 1517927388111,
+        "placeId": "CG61Iz2pRDuEAIrWfaE-_A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Museu d'Història de la Immigració de Catalunya. Sant Adrià del Besòs",
+            "description": "Ciència i migració: Foc, aigua i aire!",
+            "geoFence": {
+                "latitude": 41.4281,
+                "longitude": 2.21237,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927398191,
+        "updatedAt": 1517927398191,
+        "placeId": "d0jgenxyR6mnsVMi4XMkWQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Alcover",
+            "description": "Museu d'Alcover",
+            "geoFence": {
+                "latitude": 41.26162,
+                "longitude": 1.169583,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1540908859178,
+        "updatedAt": 1540909023405,
+        "placeId": "diSuaLM6Q4maqaLwpfhHlw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test 1A",
+            "description": "Malaga",
+            "geoFence": {
+                "latitude": 36.72146304964697,
+                "longitude": -4.421610487731527,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927382702,
+        "updatedAt": 1517927382702,
+        "placeId": "E0qKq5-xRpWx-lQzKzJY6w",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Tavascan",
+            "description": "Estació d'esquí nòrdic de Tavascan",
+            "geoFence": {
+                "latitude": 42.64311,
+                "longitude": 1.255767,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927386174,
+        "updatedAt": 1517927386174,
+        "placeId": "eIsGcOuVTDqUSjpfzXZ7tA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Catedral de Tarragona",
+            "description": "Catedral de Tarragona i Museu Diocesà",
+            "geoFence": {
+                "latitude": 41.11861,
+                "longitude": 1.257946,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1520355757471,
+        "updatedAt": 1520355818413,
+        "placeId": "EoKW0bCZTxyLTDnbOavDzA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Algerie",
+            "description": "Algerie",
+            "geoFence": {
+                "latitude": 36.7335996507628,
+                "longitude": 3.1010055620203048,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927397847,
+        "updatedAt": 1517927397847,
+        "placeId": "esj2FNjjRKyBjWfKw1XBSQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Museu del Joguet de Catalunya ",
+            "description": "Museu del Joguet de Catalunya",
+            "geoFence": {
+                "latitude": 42.26664,
+                "longitude": 2.96081,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927383364,
+        "updatedAt": 1517927383364,
+        "placeId": "F0mmURHISnCrFiPuG24F-Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Tuixent",
+            "description": "Estació d'esquí nòrdic de Tuixent - La Vansa",
+            "geoFence": {
+                "latitude": 42.23305,
+                "longitude": 1.568055,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927396670,
+        "updatedAt": 1517927396670,
+        "placeId": "fSKqUmfxRuSXtE1IbpIOSQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "L'Estartit",
+            "description": "L'aventura del Nautilus",
+            "geoFence": {
+                "latitude": 42.05376,
+                "longitude": 3.200615,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1520436019631,
+        "updatedAt": 1520436019631,
+        "placeId": "FUB9igkGQfKuVUEg6CLpyQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "El Corte Inglés - Castellana",
+            "description": "El Corte Inglés - Madrid",
+            "geoFence": null
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927392172,
+        "updatedAt": 1517927392172,
+        "placeId": "fUBPJ8GMQcC-XZQrUih4jw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Coves de Benifallet",
+            "description": "Coves Meravelles i Llagut Benifallet",
+            "geoFence": {
+                "latitude": 40.90927,
+                "longitude": 0.462092,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927396052,
+        "updatedAt": 1517927396052,
+        "placeId": "G9oSParvSFeeCH3oEXLXxA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Masquefa",
+            "description": "CRARC",
+            "geoFence": {
+                "latitude": 41.49902,
+                "longitude": 1.814729,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927394222,
+        "updatedAt": 1517927394222,
+        "placeId": "GDPY3bB7SKS6bbNKtjCKBA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Estació del Nord. Barcelona.",
+            "description": "Iniciació al patinatge en línia i quatre rodes",
+            "geoFence": {
+                "latitude": 41.3923,
+                "longitude": 2.183516,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927395647,
+        "updatedAt": 1517927395647,
+        "placeId": "gKGeEtIdScGmhOPNfSoGkQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "La Seu d'Urgell",
+            "description": "Parc Olímpic del Segre",
+            "geoFence": {
+                "latitude": 42.35456,
+                "longitude": 1.452395,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1518178622164,
+        "updatedAt": 1518178675717,
+        "placeId": "GLK5z_X3SFWJLBvrx7W-TA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "CouponTools",
+            "description": "Heirbaan",
+            "geoFence": {
+                "latitude": 51.0722030971785,
+                "longitude": 5.752780437469482,
+                "radius": 158.621,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927393279,
+        "updatedAt": 1517927395245,
+        "placeId": "GmRx95rWRya7VobO75Jb0A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Gualta",
+            "description": "Rutes amb segways",
+            "geoFence": {
+                "latitude": 42.03472,
+                "longitude": 3.118889,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927393647,
+        "updatedAt": 1517927393647,
+        "placeId": "gQRoINWCQXu9N53v-ur60Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Castelló d'Empúries",
+            "description": "Butterfly Park Empuriabrava",
+            "geoFence": {
+                "latitude": 42.25861,
+                "longitude": 3.085,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1528717298308,
+        "updatedAt": 1528717337712,
+        "placeId": "Guup-8_vRcC3NT3cumphlA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Riyadh",
+            "description": "Riyadh",
+            "geoFence": {
+                "latitude": 24.69502394781502,
+                "longitude": 46.680476756039866,
+                "radius": 225.703,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927394397,
+        "updatedAt": 1517927394397,
+        "placeId": "H96SMXVnTWaYy1-vIo4ugA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Clot de la Mel. Barcelona.",
+            "description": "Iniciació al patinatge en línia i quatre rodes",
+            "geoFence": {
+                "latitude": 41.41128,
+                "longitude": 2.195214,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927390331,
+        "updatedAt": 1517927390331,
+        "placeId": "hAsl8zqgTEuAD82FFTeeSg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Barcelona caiacs. Port de Badalona.",
+            "description": "Bateig de mar en caiac",
+            "geoFence": {
+                "latitude": 41.43252,
+                "longitude": 2.241062,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1520582811418,
+        "updatedAt": 1520582866660,
+        "placeId": "HfnAIHuIRUmeDVe3AJQyHw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "UŠĆE Shopping Center",
+            "description": "UŠĆE Shopping Center",
+            "geoFence": {
+                "latitude": 44.81539490215028,
+                "longitude": 20.43715857637926,
+                "radius": 102.81,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381714,
+        "updatedAt": 1517927381714,
+        "placeId": "HikR-RSoQZiP0tj7tEf5Vw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "La Llotja. Lleida.",
+            "description": "Petit Animac 2018",
+            "geoFence": {
+                "latitude": 41.61758,
+                "longitude": 0.620014,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927397517,
+        "updatedAt": 1517927397517,
+        "placeId": "hm6lsEtGS0GchlzxgEpAPQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Bellmunt del Priorat",
+            "description": "Museu de les Mines de Bellmunt del Priorat",
+            "geoFence": {
+                "latitude": 41.16325,
+                "longitude": 0.764206,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1538988245878,
+        "updatedAt": 1538988412146,
+        "placeId": "holaD9-RTC6TF1e-nhITUA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test Fernando",
+            "description": "Madrid",
+            "geoFence": {
+                "latitude": 40.447619754351294,
+                "longitude": -3.6925349643256595,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927399135,
+        "updatedAt": 1517927399135,
+        "placeId": "HQjMI5DKR5yeQnYeVkeSzQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Santa Cristina d'Aro",
+            "description": "La Casa Màgica - Col·lecció Xevi",
+            "geoFence": {
+                "latitude": 41.81431,
+                "longitude": 3.001472,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927398952,
+        "updatedAt": 1517927398952,
+        "placeId": "HxQuSjhVQXyTNGvpr6XdDg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Arbúcies",
+            "description": "Museu Etnològic del Montseny La Gabella",
+            "geoFence": {
+                "latitude": 41.81594,
+                "longitude": 2.513867,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927391603,
+        "updatedAt": 1517927391603,
+        "placeId": "HzJKqSUfTb2U6Y3NLfYCUg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Port Esportiu del Masnou",
+            "description": "Aventura marinera",
+            "geoFence": {
+                "latitude": 41.47589,
+                "longitude": 2.314641,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381505,
+        "updatedAt": 1517927381505,
+        "placeId": "ifkE5TiOS3e5t4Aa84uKhg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Auditori de Cornellà Albert Einstein, 51 Cornellà de Llobregat",
+            "description": "Berenem a l'Auditori \\Amour\\\"\"",
+            "geoFence": {
+                "latitude": 41.35001,
+                "longitude": 2.080811,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927386346,
+        "updatedAt": 1517927386346,
+        "placeId": "iXHTF6Y6Tx6cuKL5wiSkAw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Jaciment Paleontològic de Fumanya",
+            "description": "Dinosaures de Fumanya",
+            "geoFence": {
+                "latitude": 42.17931,
+                "longitude": 1.795044,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1537280163612,
+        "updatedAt": 1537280292281,
+        "placeId": "iyiY6Ay3QUucoIwOfgmf0w",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test G",
+            "description": "Test G",
+            "geoFence": {
+                "latitude": -33.40183905222333,
+                "longitude": -70.57582415875243,
+                "radius": 320.764,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1520435993058,
+        "updatedAt": 1521040900432,
+        "placeId": "j7b5XfpmQp-2NBXv0k5spQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "El Corte Inglés - Plaza Catalunya",
+            "description": "El Corte Inglés - Barcelona",
+            "geoFence": {
+                "latitude": 41.38700538436478,
+                "longitude": 2.1700194656372105,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1525766095068,
+        "updatedAt": 1525766132640,
+        "placeId": "jcAqEACUSdaaDiVuTDXs-w",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Teheran",
+            "description": "Teheran",
+            "geoFence": {
+                "latitude": 35.74539218720634,
+                "longitude": 51.37598976219476,
+                "radius": 426.985,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927389627,
+        "updatedAt": 1517927389627,
+        "placeId": "jCLkjZFbTAGkkAve3_0iaA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Girona",
+            "description": "CaixaForum Girona",
+            "geoFence": {
+                "latitude": 41.98438,
+                "longitude": 2.825539,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381317,
+        "updatedAt": 1517927397924,
+        "placeId": "Jf_DZedzSHqLD1-OkNPWFA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Barcelona",
+            "description": "Mirador de Colom",
+            "geoFence": {
+                "latitude": 41.37611,
+                "longitude": 2.177705,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927385549,
+        "updatedAt": 1517927385549,
+        "placeId": "JxfIuc0JRki-WPE-Kagx8g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Canillo - Andorra",
+            "description": "Palau de gel d'Andorra",
+            "geoFence": {
+                "latitude": 42.57951,
+                "longitude": 1.643316,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1524210671416,
+        "updatedAt": 1524210881251,
+        "placeId": "l0R6BoG-Ts6CNtIMMd4hJQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Softbank Test",
+            "description": "Softbank Test",
+            "geoFence": {
+                "latitude": 35.71134980299269,
+                "longitude": 139.71844428134466,
+                "radius": 107.915,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1548427125974,
+        "updatedAt": 1548427125974,
+        "placeId": "L6VcJkYeRF6Nkgi6PFjrHQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "test",
+            "description": "test",
+            "geoFence": null
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927389961,
+        "updatedAt": 1517927389961,
+        "placeId": "lRnlKcgJQP6uLXH2Vb4KDA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Jardins de Cap Roig Calella de Palafrugell (Baix Empordà)",
+            "description": "Jardins de Cap Roig",
+            "geoFence": {
+                "latitude": 41.87659,
+                "longitude": 3.177366,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927391785,
+        "updatedAt": 1517927391785,
+        "placeId": "LWRQM9INReOVAmvhewipQQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sant Sadurní d'Anoia",
+            "description": "Espai Xocolata Simón Coll",
+            "geoFence": {
+                "latitude": 41.4249,
+                "longitude": 1.787523,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1521451592733,
+        "updatedAt": 1521451658593,
+        "placeId": "m92SyjP3RUOtl_4LbP-hkg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Tehran test",
+            "description": "Tehran test",
+            "geoFence": {
+                "latitude": 35.70272714376811,
+                "longitude": 51.39576983110044,
+                "radius": 163.559,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927388481,
+        "updatedAt": 1517927388481,
+        "placeId": "MMU-PxQQQ8Kr5wzy0esu4g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Roses",
+            "description": "Els Blaus de Roses",
+            "geoFence": {
+                "latitude": 42.26236,
+                "longitude": 3.17493,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1525437331802,
+        "updatedAt": 1525437685051,
+        "placeId": "MysekQKjQ6GqQl7rhmU8MQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Van der Valk ",
+            "description": "Restaurants",
+            "geoFence": {
+                "latitude": 51.55326410882703,
+                "longitude": 4.944670202289899,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1521466461876,
+        "updatedAt": 1521466563374,
+        "placeId": "n_GPz56FTOyhfCCHA_fVVg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "corrientes 1000, argentin",
+            "description": "corrientes 1000, argentin",
+            "geoFence": {
+                "latitude": -34.60375975145088,
+                "longitude": -58.38090230384523,
+                "radius": 145.889,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927392536,
+        "updatedAt": 1517927392536,
+        "placeId": "n_y5HBn1REi7A5FA-3Il0w",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sant Llorenç de Montgai",
+            "description": "La Roca dels Bous",
+            "geoFence": {
+                "latitude": 41.86797,
+                "longitude": 0.841254,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927388282,
+        "updatedAt": 1517927388282,
+        "placeId": "n3E1J5UZRHOQewxpEfaZig",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Centre d'Interpretació Manuel de Cabanyes. Vilanova i la Geltrú.",
+            "description": "Activitats familiars a la Masia d'en Cabanyes",
+            "geoFence": {
+                "latitude": 41.24066,
+                "longitude": 1.715397,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927382493,
+        "updatedAt": 1517927397602,
+        "placeId": "N52DYtGPQOajiLTKPXFMiQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Monistrol de Montserrat.",
+            "description": "Aeri de Montserrat",
+            "geoFence": {
+                "latitude": 41.59088,
+                "longitude": 1.850959,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927396417,
+        "updatedAt": 1517927396417,
+        "placeId": "NcDXdALJT8m9zqLoQLiwZw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Deltebre",
+            "description": "Parc Deltaventur",
+            "geoFence": {
+                "latitude": 40.70765,
+                "longitude": 0.812435,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381006,
+        "updatedAt": 1517927381006,
+        "placeId": "NISOUXS3SY2xiJpcHW42Vg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Recinte Firal El Sucre. Vic.",
+            "description": "Vicomic, Festival del còmic de Vic",
+            "geoFence": {
+                "latitude": 41.92628,
+                "longitude": 2.246941,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1541412291900,
+        "updatedAt": 1541412386193,
+        "placeId": "nKl_nrd4SRyNXMeG03bb3g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "T12",
+            "description": "T12",
+            "geoFence": {
+                "latitude": 41.473581578321486,
+                "longitude": 2.095568130027459,
+                "radius": 106.359,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927388911,
+        "updatedAt": 1517927388911,
+        "placeId": "NWp63bn-RgycdUuMbJi-kw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Casa Batlló",
+            "description": "Visita la Casa Batlló, de Gaudí",
+            "geoFence": {
+                "latitude": 41.39188,
+                "longitude": 2.165041,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1521634968939,
+        "updatedAt": 1521635038672,
+        "placeId": "nxb9mLLURcO9PZ3q68OXDg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Buenos aires",
+            "description": "Buenos aires",
+            "geoFence": {
+                "latitude": -34.59924770657001,
+                "longitude": -58.37475506685382,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927383843,
+        "updatedAt": 1517927383843,
+        "placeId": "nXwfQTDaS62apiCk5HVJmw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Araós",
+            "description": "Estació d'esquí nòrdic Viròs Vallferrera",
+            "geoFence": {
+                "latitude": 42.52107,
+                "longitude": 1.306908,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1522830419333,
+        "updatedAt": 1522830472994,
+        "placeId": "OGf-JvgCScCKYyt6nOfezA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Marina Mall Kuwait",
+            "description": "Marina Mall Kuwait",
+            "geoFence": {
+                "latitude": 29.339147957411836,
+                "longitude": 48.06578426561862,
+                "radius": 333.817,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1519915690626,
+        "updatedAt": 1519915722706,
+        "placeId": "OGioiZnySaKGfrJ8fs0A2g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Plaza de armas",
+            "description": "Plaza de armas",
+            "geoFence": {
+                "latitude": -33.43786006400064,
+                "longitude": -70.65042400489898,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927390511,
+        "updatedAt": 1517927390511,
+        "placeId": "OLOcur9PQ2eWkUJCkdW0aA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Gavà ",
+            "description": "Parc Arqueològic Mines de Gavà",
+            "geoFence": {
+                "latitude": 41.30927,
+                "longitude": 2.000816,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927383606,
+        "updatedAt": 1517927383606,
+        "placeId": "p2Pz6e_eRwKySI9mE-hagg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Aransa",
+            "description": "Estació d'esquí nòrdic d'Aransa",
+            "geoFence": {
+                "latitude": 42.43063,
+                "longitude": 1.619072,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1543424073409,
+        "updatedAt": 1543424164079,
+        "placeId": "POX6eizRRC-iGqbocjIaSg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test 1",
+            "description": "T1",
+            "geoFence": {
+                "latitude": 9.879074404155372,
+                "longitude": -84.08149155894353,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927398769,
+        "updatedAt": 1517927398769,
+        "placeId": "pqoJ4OTrRhe1rHjVegZgIA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Igualada",
+            "description": "Museu del Traginer - Col·lecció Antoni Ros",
+            "geoFence": {
+                "latitude": 41.5777,
+                "longitude": 1.612241,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927389093,
+        "updatedAt": 1517927389093,
+        "placeId": "PSIhWm9ISxaKi0iFqOvEvw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Aira, natura i esport. Sant Antoni de Vilamajor.",
+            "description": "Aira, espai d'esport i natura",
+            "geoFence": {
+                "latitude": 41.66559,
+                "longitude": 2.391561,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927395061,
+        "updatedAt": 1517927395061,
+        "placeId": "Q5oAXF1iRK2PwkR0bSiN0Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Vielha",
+            "description": "Palau de Gel de Vielha",
+            "geoFence": {
+                "latitude": 42.70077,
+                "longitude": 0.801919,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1543502009067,
+        "updatedAt": 1543502237626,
+        "placeId": "QApIh2FDS5O6sy7DLnnbFw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "T12",
+            "description": "T12",
+            "geoFence": {
+                "latitude": 55.6651391879381,
+                "longitude": 12.529619569223428,
+                "radius": 894.568,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1524475342742,
+        "updatedAt": 1524475484445,
+        "placeId": "qc8yOkVRSZm-DrXf2SlZOw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Florence",
+            "description": "Florence",
+            "geoFence": {
+                "latitude": 43.77099347807977,
+                "longitude": 11.247874871050271,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927385997,
+        "updatedAt": 1517927385997,
+        "placeId": "qemCpa0YTlyf4gqmO-J9xg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Mas Cal Rei. Santa Eugènia de Berga.",
+            "description": "Granja Cal Rei",
+            "geoFence": {
+                "latitude": 41.91394,
+                "longitude": 2.288191,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1519655983603,
+        "updatedAt": 1519655983603,
+        "placeId": "qLfa7UObTGeP-8LQDj44IQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sri Lanka - Colombo",
+            "description": "Sri Lanka - Colombo",
+            "geoFence": null
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1496138203136,
+        "updatedAt": 1502881376749,
+        "placeId": "qLzl7eJiTSKctriXV9yOow",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "MOCA Wi-Fi",
+            "description": "WIFI Analytics Demo",
+            "geoFence": {
+                "latitude": 41.3556479117126,
+                "longitude": 2.1324312686920166,
+                "radius": 478.764,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "floorPlan": {
+            "provider": "geojson",
+            "accessKey": "68a235b7-b3b8-4f11-b4fe-f5c6f258c962",
+            "mapId": "23450",
+            "title": "MWC 2016",
+            "url": "https://s3-eu-west-1.amazonaws.com/files.mocaplatform.com/floorplans/geojson/mwc.geojson",
+            "numFloors": 2
+        },
+        "wifiEndpoint": {
+            "wifiKey": "moca_cmx_1_mwc_2017",
+            "wifiSecret": "moca_cmx_1_mwc_2017"
+        },
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1538991380629,
+        "updatedAt": 1538991566259,
+        "placeId": "QVmAq0qwTVyTtksfxpQKDg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test 1",
+            "description": "Las Palmas Gran Canaria",
+            "geoFence": {
+                "latitude": 28.06679195467386,
+                "longitude": -15.45343995976009,
+                "radius": 271.67,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927380849,
+        "updatedAt": 1517927380849,
+        "placeId": "r3xz-tWTRkSAIhqqca0kow",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Barrankisme. Rialp.",
+            "description": "Barranquisme",
+            "geoFence": {
+                "latitude": 42.44345,
+                "longitude": 1.134741,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1526285465129,
+        "updatedAt": 1526285622474,
+        "placeId": "RdTLZZ4pSJGsf89yL9WsKg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sintra",
+            "description": "Sintra",
+            "geoFence": {
+                "latitude": 38.797601431405205,
+                "longitude": -9.39077486161193,
+                "radius": 137.308,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927390693,
+        "updatedAt": 1517927390693,
+        "placeId": "rj0N99IzTZGVf0ylEuH0qA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Cookiteca Sarrià. Barcelona.",
+            "description": "Cookiteca",
+            "geoFence": {
+                "latitude": 41.39836,
+                "longitude": 2.122348,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1519641545541,
+        "updatedAt": 1519641566572,
+        "placeId": "rOmI5jBwS7-AENjUdbegSw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test -- Vodafone",
+            "description": "Test -- Vodafone",
+            "geoFence": {
+                "latitude": -33.9295980219742,
+                "longitude": 18.425553449940708,
+                "radius": 4450.26,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927396966,
+        "updatedAt": 1517927396966,
+        "placeId": "ru9F6dP3SBOvrqZTUAli7Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "La Pobla de Lillet",
+            "description": "Jardins Artigas",
+            "geoFence": {
+                "latitude": 42.26104,
+                "longitude": 1.901321,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927387934,
+        "updatedAt": 1517927387934,
+        "placeId": "sc-dXhtbTWe67YLq1ypG6Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Santa Eulàlia de Ronçana.",
+            "description": "Parc de les Olors del Serrat",
+            "geoFence": {
+                "latitude": 41.65644,
+                "longitude": 2.20723,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1519130246027,
+        "updatedAt": 1544691654931,
+        "placeId": "scObxOfNT9CZHK37NSrC9g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test",
+            "description": "Test",
+            "geoFence": {
+                "latitude": 40.405902775223396,
+                "longitude": -3.6931201313909696,
+                "radius": 1119.89,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [{
+            "createdAt": 1521040139475,
+            "updatedAt": 1521040139475,
+            "zoneId": "mPPpw1u-TF2AxLqxwEHL5g",
+            "placeId": "scObxOfNT9CZHK37NSrC9g",
+            "config": {
+                "name": "test",
+                "description": "",
+                "floorNumber": 0,
+                "category": "test",
+                "enabled": false,
+                "type": "BeaconGroup",
+                "provider": "MOCA",
+                "options": {},
+                "color": null
+            },
+            "state": "UNKNOWN",
+            "placeName": "Test"
+        }],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927387324,
+        "updatedAt": 1517927387324,
+        "placeId": "SOFsNCjXSrmwSgNnlcBQ4g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Gaudí Exhibition Center. Barcelona.",
+            "description": "Passejant amb Gaudí",
+            "geoFence": {
+                "latitude": 41.38457,
+                "longitude": 2.176145,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927387149,
+        "updatedAt": 1517927387149,
+        "placeId": "sXJjQZ8iSRmtMwZ1mnVBdA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Estany de Banyoles",
+            "description": "Excursió amb vaixell a l'estany de Banyoles",
+            "geoFence": {
+                "latitude": 42.11768,
+                "longitude": 2.756494,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927382197,
+        "updatedAt": 1517927382197,
+        "placeId": "SyEXVWwSSYWITci3T-JQuw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Olvan",
+            "description": "Nucli Zoològic de Fuives",
+            "geoFence": {
+                "latitude": 42.07111,
+                "longitude": 1.892222,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927386975,
+        "updatedAt": 1517927386975,
+        "placeId": "t3SdVe6JTeqJXhO0PwMZEA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "La Tavella. Cànoves i Samalús.",
+            "description": "Diumenges en família a La Tavella",
+            "geoFence": {
+                "latitude": 41.6745,
+                "longitude": 2.358195,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927392926,
+        "updatedAt": 1517927392926,
+        "placeId": "tEy5s8NGQ2yTsRmed0cprg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "L'Arboç",
+            "description": "Cable Esquí, a l'Arboç",
+            "geoFence": {
+                "latitude": 41.26535,
+                "longitude": 1.603523,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927384174,
+        "updatedAt": 1517927384174,
+        "placeId": "TnzlwSnmQmSvUD-_ScUdpA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Castellbò",
+            "description": "Estació d'esquí nòrdic de Sant Joan de l'Erm",
+            "geoFence": {
+                "latitude": 42.37445,
+                "longitude": 1.357473,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927393098,
+        "updatedAt": 1517927393098,
+        "placeId": "trp82ZaNSDqmi0TNDJcsPg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Gaudí Experiència (costat del Parc Güell). Barcelona.",
+            "description": "G Experiència",
+            "geoFence": {
+                "latitude": 41.41247,
+                "longitude": 2.153728,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927381166,
+        "updatedAt": 1517927381166,
+        "placeId": "txE_OsKrT7yZrJqQsCn_8Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Terrassa",
+            "description": "\\Clinc!\\\" Pep Bou\"",
+            "geoFence": {
+                "latitude": 41.56628,
+                "longitude": 2.006941,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927393993,
+        "updatedAt": 1517927393993,
+        "placeId": "U4KE9b6lTB-_O8HW5hzNvA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Les Masies de Voltregà",
+            "description": "Museu del Coure",
+            "geoFence": {
+                "latitude": 42.0375,
+                "longitude": 2.238333,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1536590348081,
+        "updatedAt": 1536590527326,
+        "placeId": "u4ntC0dcSC2-AxC3_W05-A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test Molt 1",
+            "description": "Barcelona Molt HQ",
+            "geoFence": {
+                "latitude": 41.3983839412396,
+                "longitude": 2.142082552175907,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927388647,
+        "updatedAt": 1517927388647,
+        "placeId": "Ut83bAgWQLWkJ0rkSxtzzw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Sant Julià de Lòria (Andorra)",
+            "description": "Naturlandia",
+            "geoFence": {
+                "latitude": 42.46607,
+                "longitude": 1.493633,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1520938134056,
+        "updatedAt": 1520938176097,
+        "placeId": "uUmM2_0HSaiP2ozpwSV3sA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Lleida",
+            "description": "PCITAL",
+            "geoFence": {
+                "latitude": 41.60502129840432,
+                "longitude": 0.6059092680507092,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927398378,
+        "updatedAt": 1517927398378,
+        "placeId": "Vblm0r71TAKt9BSz21RdQQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Puig-Reig",
+            "description": "Museu de la Colònia Vidal de Puig-reig",
+            "geoFence": {
+                "latitude": 41.94504,
+                "longitude": 1.879181,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927390147,
+        "updatedAt": 1517927395096,
+        "placeId": "vH6JGn2iSG-uyaM0HgAJ1A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Canyamars",
+            "description": "Passejades en ruc",
+            "geoFence": {
+                "latitude": 41.61845,
+                "longitude": 2.427371,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927389265,
+        "updatedAt": 1517927389265,
+        "placeId": "VsPZnyhKT7yZ2mCJjCCyHA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Monestir de Santa Maria de Ripoll",
+            "description": "Monestir de Santa Maria de Ripoll",
+            "geoFence": {
+                "latitude": 42.20108,
+                "longitude": 2.18937,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927395460,
+        "updatedAt": 1517927395460,
+        "placeId": "VxVBsqaTSDiSd2xadV_tAQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Guardiola de Berguedà",
+            "description": "Mina de Petroli de Riutort",
+            "geoFence": {
+                "latitude": 42.25225,
+                "longitude": 1.921211,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1544691619368,
+        "updatedAt": 1544691619368,
+        "placeId": "W0avJ7WsSum7IGdLtIRiYA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "test",
+            "description": "test",
+            "geoFence": null
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1520436940956,
+        "updatedAt": 1520437802996,
+        "placeId": "WmAavZIiS7-USj7cqeKUAw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Mango - Pelaio",
+            "description": "Mango - Barcelona",
+            "geoFence": {
+                "latitude": 41.38483448526637,
+                "longitude": 2.1712682288721226,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [{
+                "createdAt": 1520437424892,
+                "updatedAt": 1520437424892,
+                "zoneId": "mp8ODkBqSjG-YcczIOl5rQ",
+                "placeId": "WmAavZIiS7-USj7cqeKUAw",
+                "config": {
+                    "name": "Zona Entrada",
+                    "description": "Mango Pelaio",
+                    "floorNumber": 0,
+                    "category": "Zona Entrada",
+                    "enabled": false,
+                    "type": "BeaconGroup",
+                    "provider": "MOCA",
+                    "options": {},
+                    "color": null
+                },
+                "state": "UNKNOWN",
+                "placeName": "Mango - Pelaio"
+            },
+            {
+                "createdAt": 1520436979047,
+                "updatedAt": 1520436979047,
+                "zoneId": "tEhSs3gDQ0ai2UNapN-IxA",
+                "placeId": "WmAavZIiS7-USj7cqeKUAw",
+                "config": {
+                    "name": "Zona Caja",
+                    "description": "Mango Pelaio",
+                    "floorNumber": 0,
+                    "category": "Caja",
+                    "enabled": false,
+                    "type": "BeaconGroup",
+                    "provider": "MOCA",
+                    "options": {},
+                    "color": null
+                },
+                "state": "UNKNOWN",
+                "placeName": "Mango - Pelaio"
+            }
+        ],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927385378,
+        "updatedAt": 1517927385378,
+        "placeId": "wuUpk9U0Q26d8bxv9_NX6A",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Centre Termolúdic Caldea. Andorra.",
+            "description": "Aigües termals a Caldea",
+            "geoFence": {
+                "latitude": 42.51163,
+                "longitude": 1.53737,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927396230,
+        "updatedAt": 1517927396230,
+        "placeId": "Xbx_KrW6T5CvU1sqdqa4yg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Blanes",
+            "description": "Jardí Botànic Marimurtra",
+            "geoFence": {
+                "latitude": 41.6766,
+                "longitude": 2.7991,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927384976,
+        "updatedAt": 1517927384992,
+        "placeId": "XF320CqgTuerq883pZZcTw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Llavorsí",
+            "description": "Ràfting Llavorsí",
+            "geoFence": {
+                "latitude": 42.49549,
+                "longitude": 1.212027,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1539696424858,
+        "updatedAt": 1539696529129,
+        "placeId": "xH9kzdFUTEykYqsBAiWuXw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Test Dario",
+            "description": "T1",
+            "geoFence": {
+                "latitude": -33.40144103228287,
+                "longitude": -70.57885021481934,
+                "radius": 809.754,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "NOT_INSTALLED"
+    },
+    {
+        "createdAt": 1517927385213,
+        "updatedAt": 1517927385213,
+        "placeId": "XjFlwTaDRkWX46JbVTKtjw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "L'Esquirol (Santa Maria de Corcó)",
+            "description": "El tresor d'en Serrallonga",
+            "geoFence": {
+                "latitude": 42.04527,
+                "longitude": 2.378056,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927391232,
+        "updatedAt": 1517927391232,
+        "placeId": "xqpYkBV3Q-ipvxUXFOXzmw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Estació de Renfe. Móra la Nova.",
+            "description": "Museu del Ferrocarril de Móra la Nova",
+            "geoFence": {
+                "latitude": 41.10717,
+                "longitude": 0.650049,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927392355,
+        "updatedAt": 1517927392355,
+        "placeId": "YIq5iSmSQJGSYOpWmrJ15Q",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Creuers per l'Ebre - Benifallet",
+            "description": "Coves Meravelles i Llagut Benifallet",
+            "geoFence": {
+                "latitude": 40.97376,
+                "longitude": 0.515355,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1525861611625,
+        "updatedAt": 1525861660062,
+        "placeId": "Z4yvJy7qTQuaLpmrIbnKzQ",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Calle Venezuela 103, Barcelona",
+            "description": "Calle Venezuela 103, Barcelona",
+            "geoFence": {
+                "latitude": 41.41225118318986,
+                "longitude": 2.2099738724842837,
+                "radius": 100,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927387665,
+        "updatedAt": 1517927387665,
+        "placeId": "zALxXnTSSOiFJDdar16Nnw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Oficina de Turisme de Solsonès",
+            "description": "Solsona monumental",
+            "geoFence": {
+                "latitude": 41.99563,
+                "longitude": 1.519543,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927397153,
+        "updatedAt": 1517927397153,
+        "placeId": "zbTkSIYcTyCJU1y89KBA5g",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Canyamel - Capdepera",
+            "description": "Coves d'Artà",
+            "geoFence": {
+                "latitude": 39.65655,
+                "longitude": 3.449444,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927385727,
+        "updatedAt": 1517927385727,
+        "placeId": "ZCIB3yygTJ2xcjSlRpygPw",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Montellà",
+            "description": "Parc dels Búnquers de Martinet i Montellà",
+            "geoFence": {
+                "latitude": 42.35695,
+                "longitude": 1.684041,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1523972612036,
+        "updatedAt": 1523972661997,
+        "placeId": "ZDleYT04Sp6mtIJuOiInDA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Mumbai",
+            "description": "Mumbai",
+            "geoFence": {
+                "latitude": 19.09402257655946,
+                "longitude": 72.86518704632567,
+                "radius": 550.108,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1517927386521,
+        "updatedAt": 1517927386521,
+        "placeId": "zVQfbQE5QHa37xJTs4qpBA",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Reus",
+            "description": "Taller de cuina en família",
+            "geoFence": {
+                "latitude": 41.15181,
+                "longitude": 1.110937,
+                "radius": 149,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    },
+    {
+        "createdAt": 1523964407236,
+        "updatedAt": 1523964470854,
+        "placeId": "ZY7y-lNwTrWAIfwjraC9lg",
+        "accountId": "tgDVfp2mRZmgP-dcJvKw9A",
+        "config": {
+            "name": "Oslo",
+            "description": "Oslo",
+            "geoFence": {
+                "latitude": 59.91489299915216,
+                "longitude": 10.734275572686784,
+                "radius": 182.888,
+                "type": 0,
+                "geoTag": null
+            }
+        },
+        "zones": [],
+        "state": "UNKNOWN"
+    }
+]
