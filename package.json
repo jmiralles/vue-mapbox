@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "vue-cli-service serve --port 8080 --open",
+    "serve": "vue-cli-service serve --port 8090 --open",
     "build": "vue-cli-service build --modern",
     "lint": "vue-cli-service lint"
   },
@@ -14,7 +14,9 @@
     "@mapbox/mapbox-gl-draw": "^1.1.1",
     "@turf/length": "^6.0.2",
     "@turf/line-distance": "^4.7.3",
+    "element-ui": "^2.7.0",
     "mapbox-gl": "^0.53.1",
+    "mapbox-gl-circle": "^1.6.5",
     "mapbox-gl-draw": "^0.16.0",
     "numeral": "^2.0.6",
     "turf": "^3.0.14",

@@ -3,10 +3,13 @@
 // forces draw.create on creation of second vertex
 
 import numeral from 'numeral';
+import MapboxDraw from '@mapbox/mapbox-gl-draw';
+
 import lineDistance from '@turf/line-distance';
 const { log } = console;
 
-const RadiusMode = {};
+
+const RadiusMode = MapboxDraw.modes.draw_line_string;
 
 function createVertex(parentId, coordinates, path, selected) {
   return {
@@ -62,41 +65,19 @@ function createGeoJSONCircle(center, radiusInKm, parentId, points = 64) {
   };
 }
 
-function getDisplayMeasurements(feature) {
+function getDisplayMeasurements(lineFeature) {
   // should log both metric and standard display strings for the current drawn feature
 
+  // create metric and standard display strings for the line
+  const drawnLength = (lineDistance(lineFeature) * 1000); // meters
 
-  // metric calculation
-  const drawnLength = (lineDistance(feature) * 1000); // meters
+  const feetMeasurement = (drawnLength * 3.28084);
+  const milesMeasurement = (drawnLength * 3.28084) / 5280;
 
-  let metricUnits = 'm';
-  let metricFormat = '0,0';
-  let metricMeasurement;
-
-  let standardUnits = 'feet';
-  let standardFormat = '0,0';
-  let standardMeasurement;
-
-  metricMeasurement = drawnLength;
-  if (drawnLength >= 1000) { // if over 1000 meters, upgrade metric
-    metricMeasurement = drawnLength / 1000;
-    metricUnits = 'km';
-    metricFormat = '0.00';
-  }
-
-  standardMeasurement = drawnLength * 3.28084;
-  if (standardMeasurement >= 5280) { // if over 5280 feet, upgrade standard
-    standardMeasurement /= 5280;
-    standardUnits = 'mi';
-    standardFormat = '0.00';
-  }
-
-  const displayMeasurements = {
-    metric: `${numeral(metricMeasurement).format(metricFormat)} ${metricUnits}`,
-    standard: `${numeral(standardMeasurement).format(standardFormat)} ${standardUnits}`,
+  return {
+    feet: `${numeral(feetMeasurement).format('0,0')} ft`,
+    miles: `${numeral(milesMeasurement).format('0.00')} mi`,
   };
-
-  return displayMeasurements;
 }
 
 const doubleClickZoom = {
@@ -110,16 +91,8 @@ const doubleClickZoom = {
     }, 0);
   },
 };
-RadiusMode.onSetup = function(opts) {
-  log("ONSETUP DRAW CIRCLES", opts);
-  var state = {
-    line: {}
-  };
 
-  return state;
-}
 RadiusMode.clickAnywhere = function(state, e) {
-  log("clickAnywhere");
 
   // this ends the drawing after the user creates a second point, triggering this.onStop
   if (state.currentVertexPosition === 1) {
@@ -135,13 +108,14 @@ RadiusMode.clickAnywhere = function(state, e) {
     state.line.addCoordinate(0, e.lngLat.lng, e.lngLat.lat);
   }
 
+
   return null;
 };
 
 // creates the final geojson point feature with a radius property
 // triggers draw.create
 RadiusMode.onStop = function(state) {
-  log("onStop");
+  log("ON STOP===>")
 
   doubleClickZoom.enable(this);
 
@@ -169,14 +143,16 @@ RadiusMode.onStop = function(state) {
     this.map.fire('draw.create', {
       features: [pointWithRadius],
     });
+
   } else {
-    this.deleteFeature([state.line.id], { silent: true });
     this.changeMode('simple_select', {}, { silent: true });
   }
+
+  this.deleteFeature([state.line.id], { silent: true });
+
 };
 
 RadiusMode.toDisplayFeatures = function(state, geojson, display) {
-  log("toDisplayFeatures");
 
   const isActiveLine = geojson.properties.id === state.line.id;
   geojson.properties.active = (isActiveLine) ? 'true' : 'false';
@@ -218,6 +194,7 @@ RadiusMode.toDisplayFeatures = function(state, geojson, display) {
   // create custom feature for radius circlemarker
   const center = geojson.geometry.coordinates[0];
   const radiusInKm = lineDistance(geojson, 'kilometers');
+
   const circleFeature = createGeoJSONCircle(center, radiusInKm, state.line.id);
   circleFeature.properties.meta = 'radius';
 

@@ -32,7 +32,6 @@ export default {
   border: 1px solid #ccc;
 }
 .card div {
-  height: 50px;
   padding: 10px;
 }
 </style>
